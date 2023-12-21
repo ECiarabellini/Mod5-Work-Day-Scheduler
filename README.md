@@ -1,11 +1,11 @@
 # Module 5 Work Day Scheduler
 
 ## Description
-For this project, I was provided starter HTML and CSS code along with multiple action item prompts to make the website dynamic including saving user inputs in local storage and recalling them using Javscript. I utilized jQuery for much of my Javascript tasks as well as dayjs for date/time functionality.
+For this project, I was provided starter HTML and CSS code along with multiple action item prompts to make the website dynamic. This work included saving user inputs in local storage and recalling them using Javscript. This also included dynamically setting the background color of containers based on the current hour. I utilized jQuery for much of my Javascript tasks as well as dayjs for date/time functionality.
 
 
 ## Installation
-Repo can be found [here] (https://github.com/ECiarabellini/Mod5-Work-Day-Scheduler/import).
+Repo can be found [here] (https://github.com/ECiarabellini/Mod5-Work-Day-Scheduler).
 Working site can be found [here] (https://eciarabellini.github.io/Mod5-Work-Day-Scheduler/Develop).
 
 ## Usage
